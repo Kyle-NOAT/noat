@@ -1,1 +1,3 @@
 # noat
+
+I want to create a python gui that when opened, allows the user to upload single or multiple images and the program determines the dimensions of each files and finds the appropriate locally found photoshop files and injects the supplied image(s) into them and overlays this supplied png disclaimer file over the user given image assets. the return will be outputted to a file with the supplied image and the image in photoshop. the local image is a nicotine disclaimer at different dimensions to accommodate different inputted image types. this is done for compliance reasons with the FDA and the goal is to be able to automate this process for marketing material and social media.
